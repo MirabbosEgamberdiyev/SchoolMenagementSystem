@@ -1,0 +1,3 @@
+[ERROR] : Error in DeleteClass method: Invalid object name 'Classes'.
+[ERROR] : Error in UpdateClass method: Invalid object name 'Classes'.
+[ERROR] : Error in GetAllExams method: Invalid object name 'Exams'.
